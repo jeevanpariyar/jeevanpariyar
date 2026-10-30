@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>Hi! I'm a Cloud/DevOps Engineer with 5+ years of experience in IT infrastructure and enterprise IT.<br><br>I'm passionate about cloud technologies, automation, and building reliable, scalable infrastructure. I enjoy working with AWS, Linux, Terraform, Docker, Kubernetes, Jenkins, and CI/CD pipelines.<br><br>🚀 Currently building projects in  AWS, Cloud Engineering, DevOps, and Infrastructure Automation.<br><br>🎯 My goal is to continuously improve my technical skills and contribute to modern cloud-native solutions.<br><br>Technologies & Tools: AWS | Linux | Terraform | Docker | Kubernetes | Jenkins | Git | Python | VMware
+##  Me<br><br>Hi! I'm a Cloud/DevOps Engineer with 5+ years of experience in IT infrastructure and enterprise IT.<br><br>I'm passionate about cloud technologies, automation, and building reliable, scalable infrastructure. I enjoy working with AWS, Linux, Terraform, Docker, Kubernetes, Jenkins, and CI/CD pipelines.<br><br>🚀 Currently building projects in  AWS, Cloud Engineering, DevOps, and Infrastructure Automation.<br><br>🎯 My goal is to continuously improve my technical skills and contribute to modern cloud-native solutions.<br><br>Technologies & Tools: AWS | Linux | Terraform | Docker | Kubernetes | Jenkins | Git | Python | VMware
 
 
 ## 🌐 Socials:
